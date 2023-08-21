@@ -23,18 +23,16 @@ The Solana Keypairs Assignment project is a simple script that utilizes the Sola
    ```bash
    cd Solana-keypairs
 
-   Install dependencies:
-
-3. Install dependencies
+3. Install dependencies:
    
    ```bash
    npm install
    
-Run the script with your generated public key as a CLI parameter:
+4. Run the script with your generated public key as a CLI parameter:
 
    ```bash
      node index.js <your-public-key>
-```
+
 The script will display your wallet's public key, request an airdrop of SOL tokens to the provided public key, and display the wallet balance.
 
 ## Installation
